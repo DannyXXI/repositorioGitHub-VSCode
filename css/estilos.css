@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+    font-family: system-ui;
+    text-align: center;
+}
+
+label{
+    font-weight: bold;
+}
+
+div{
+    height: 45px;
+}
